@@ -3,5 +3,20 @@
 #EXTINF:-1 ,La 1
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_360.m3u8
 
+#EXTINF:-1 ,La 2
+https://rtvelivestreamv6.akamaized.net/segments/la2/la2_main_360.m3u8
+
+#EXTINF:-1 ,Antena 3
+https://atres-live.atresmedia.com/bb6360366bdd2e544138b4a624dc36d9040e8974_ES_1659979089_1660007829/h264/live/antena3/bitrate_3.m3u8
+
+#EXTINF:-1 ,Cuatro
+https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+
+#EXTINF:-1 ,Telecinco
+https://directos.mitele.es/orilinear01/live/linear01/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+
+#EXTINF:-1 ,La Sexta
+https://atres-live.atresmedia.com/5c53ae6a39d83246dfe7d271143172e65c937b95_ES_1659979238_1660007978/h264/live/lasexta/bitrate_3.m3u8
+
 #EXTINF:-1 ,Canal Extremadura TV
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
